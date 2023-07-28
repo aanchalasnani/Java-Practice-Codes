@@ -1,2 +1,2 @@
 # Java-Practice-Codes
-Here I will Upload all the java codes that I wrote to learn java from NPTEL in a 12 weeks course 
+Here you will find all the programs which was part of 12 week NPTEL Java course. 
